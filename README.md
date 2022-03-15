@@ -142,6 +142,10 @@ Bueno espero y este pequeño tutorial les sea de utilidad y recuerden que si tie
 
 ## Links
 
+#### Video de Instalacion
+
+	https://github.com/TuryRx/Banana-pi-m2-zero-Arch-Linux
+
 #### Canal de Youtube 
 
     TuryRx
@@ -149,7 +153,9 @@ Bueno espero y este pequeño tutorial les sea de utilidad y recuerden que si tie
 
 ## Descargas
 
-#### Arch
+#### ArchLinux Rev 1.2 Banana Pi M2Z 12-03-22
+
+	https://www.mediafire.com/file/1zuqvmxv6spvru7/ArchLinux-h2-plus-arm-devel-1.2-Banana-pi-m2-zero.rar/file
 
 
 ## Referencias
