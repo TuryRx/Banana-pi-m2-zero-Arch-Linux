@@ -9,6 +9,14 @@ Esta vez les traigo un nuevo repositorio con el fin de mostrarles como instalar 
 
 Nota importante: Este tutorial solo servirá con SD de 16G en adelante dado que con SD de menor capacidad se presentan problemas de estabilidad o simplemente no cargara el sistema más adelante subiré la corrección a este problema.
 
+- [Instalación](#instalación)
+- [Premer Arranque](#primer-arranque)
+- [Configuración Ethernet](#configuración-de-ethernet)
+- [Habilitar Wifi](#habilitar-wifi)
+- [Links y Video](#links)
+- [Descargas e Imagen](#descargas)
+- [Referencias](#referencias)
+
 ## Instalación
 
 #### Para comenzar tendremos que contar con un sistema Linux, al cual recomiendo actualizar antes de proseguir con esto, además que tendremos que instalar las siguientes dependencias para evitar errores o complicaciones más adelante.
