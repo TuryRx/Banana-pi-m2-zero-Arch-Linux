@@ -12,6 +12,7 @@ Nota importante: Este tutorial solo servirá con SD de 16G en adelante dado que 
 - [Instalación](#instalación)
 - [Premer Arranque](#primer-arranque)
 - [Configuración Ethernet](#configuración-de-ethernet)
+- [Corregir Sistema](#corregir-sistema)
 - [Habilitar Wifi](#habilitar-wifi)
 - [Links y Video](#links)
 - [Descargas e Imagen](#descargas)
