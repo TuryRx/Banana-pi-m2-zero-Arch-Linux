@@ -115,7 +115,7 @@ Al momento de realizar el primer inicio necesitaran loguearse como usuario root,
 
 	ethtool -s eth0 speed 100 duplex half autoneg off
 
-## Corregir sistema Habilitar Wifi <img src="https://user-images.githubusercontent.com/62630527/158304496-f974d309-aa27-4f32-8b0d-9a2c6b779da6.png" width="25px">
+## Corregir sistema <img src="https://user-images.githubusercontent.com/62630527/158304496-f974d309-aa27-4f32-8b0d-9a2c6b779da6.png" width="25px">
 
 Una vez limitemos la velocidad de Ethernet el sistema nos dejara de responder, pero es normal dado que al actualizar el sistema se rompe el fichero dtb de banana pi m2 zero, por lo que ahora para solucionarlo desconectaremos la banana pi de la alimentación y retiraremos la SD para volver a montarla en muestra carpeta mnt y eliminar el archivo sun8i-h2-plus-bananapi-m2-zero.dtb y remplazarlo por el que se encuentra en los archivos que les he dejado.
 
