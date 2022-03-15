@@ -10,7 +10,7 @@ Esta vez les traigo un nuevo repositorio con el fin de mostrarles como instalar 
 Nota importante: Este tutorial solo servirá con SD de 16G en adelante dado que con SD de menor capacidad se presentan problemas de estabilidad o simplemente no cargara el sistema más adelante subiré la corrección a este problema.
 
 - [Instalación](#instalación)
-- [Premer Arranque](#primer-arranque)
+- [Premir Arranque](#primer-arranque)
 - [Configuración Ethernet](#configuración-de-ethernet)
 - [Corregir Sistema](#corregir-sistema)
 - [Habilitar Wifi](#habilitar-wifi)
