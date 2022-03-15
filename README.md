@@ -18,7 +18,7 @@ Nota importante: Este tutorial solo servirá con SD de 16G en adelante dado que 
 - [Descargas e Imagen](#descargas)
 - [Referencias](#referencias)
 
-## Instalación
+## Instalación <img src="https://user-images.githubusercontent.com/62630527/158048706-9cb18a7c-c450-4d83-bf7d-d96cbc0ffd7d.png" width="25px"> 
 
 #### Para comenzar tendremos que contar con un sistema Linux, al cual recomiendo actualizar antes de proseguir con esto, además que tendremos que instalar las siguientes dependencias para evitar errores o complicaciones más adelante.
 
@@ -79,7 +79,7 @@ Nota importante: Este tutorial solo servirá con SD de 16G en adelante dado que 
 	sudo cp sun8i-h2-plus-bananapi-m2-zero.dtb mnt/boot/dtbs/
 	sudo umount mnt/
 
-## Primer arranque
+## Primer arranque <img src="https://user-images.githubusercontent.com/62630527/158304700-ab3e3fc5-17bd-48aa-8024-45dd7afa8278.png" width="25px">
 
 llegados a este punto procederemos a insertar nuestra SD a nuestra banana pi, así como conectarla a la alimentación.
 
@@ -109,13 +109,13 @@ Al momento de realizar el primer inicio necesitaran loguearse como usuario root,
 	pacman -S sudo 
 	pacman -S ethtool
 
-## Configuración de Ethernet.
+## Configuración de Ethernet <img src="https://user-images.githubusercontent.com/62630527/158304491-9ac89816-5eb4-4d8e-bbad-5de724a923fb.png" width="25px">
 
 #### Una vez instalados los paquetes necesitaremos limitar la velocidad de nuestro puerto ethernet dado que si se le deja por defecto presenta inestabilidad.
 
 	ethtool -s eth0 speed 100 duplex half autoneg off
 
-## Corregir sistema
+## Corregir sistema Habilitar Wifi <img src="https://user-images.githubusercontent.com/62630527/158304496-f974d309-aa27-4f32-8b0d-9a2c6b779da6.png" width="25px">
 
 Una vez limitemos la velocidad de Ethernet el sistema nos dejara de responder, pero es normal dado que al actualizar el sistema se rompe el fichero dtb de banana pi m2 zero, por lo que ahora para solucionarlo desconectaremos la banana pi de la alimentación y retiraremos la SD para volver a montarla en muestra carpeta mnt y eliminar el archivo sun8i-h2-plus-bananapi-m2-zero.dtb y remplazarlo por el que se encuentra en los archivos que les he dejado.
 
@@ -125,7 +125,7 @@ Una vez limitemos la velocidad de Ethernet el sistema nos dejara de responder, p
 
 Hecho esto volveremos a insertar nuestra SD en la banana pi y la volveremos a conectar la alimentación, y ya debería estar funcionando.
 
-## Habilitar Wifi
+## Habilitar Wifi <img src="https://user-images.githubusercontent.com/62630527/158304169-9a11898e-c656-49e9-be23-821574de8cfd.png" width="25px">
 
 #### Para poder utilizar el Wifi primero iniciaremos el servicio que está asociado a este, para luego proceder a conectarnos a nuestra red Wifi en este punto el uso del wifi no será permanente, pero eso lo solucionaremos en un momento.
 
@@ -149,7 +149,7 @@ Hecho esto volveremos a insertar nuestra SD en la banana pi y la volveremos a co
 
 Bueno espero y este pequeño tutorial les sea de utilidad y recuerden que si tienen alguna duda la pueden comentar además que aquí les dejo mi canal de YouTube, así como un video en el que explico todo esto más detallado.
 
-## Links
+## Links <img src="https://user-images.githubusercontent.com/62630527/158304242-6865a26d-d2b7-4f70-ac2e-4037d92bbbfa.png" width="25px">
 
 #### Video de Instalacion
 
@@ -160,7 +160,7 @@ Bueno espero y este pequeño tutorial les sea de utilidad y recuerden que si tie
     TuryRx
     https://www.youtube.com/channel/UCsVnls-pcXUDKCafBRPJIsg
 
-## Descargas
+## Descargas <img src="https://user-images.githubusercontent.com/62630527/158044106-a52b6ef1-a65d-42d1-b376-79284df8721b.png" width="25px">
 
 #### ArchLinux Rev 1.2 Banana Pi M2Z 12-03-22
 
