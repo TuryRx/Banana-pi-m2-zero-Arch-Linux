@@ -11,13 +11,13 @@ Nota importante: Este tutorial solo servirá con SD de 16G en adelante dado que 
 
 ## Tabla de contenidos
 
-- [Instalación](#instalación)
-- [Primer Arranque](#primer-arranque)
-- [Configuración Ethernet](#configuración-de-ethernet)
-- [Corregir Sistema](#corregir-sistema)
-- [Habilitar Wifi](#habilitar-wifi)
-- [Links y Video](#links)
-- [Descargas e Imagen](#descargas)
+- [Instalación](#instalación-)
+- [Primer Arranque](#primer-arranque-)
+- [Configuración Ethernet](#configuración-de-ethernet-)
+- [Corregir Sistema](#corregir-sistema-)
+- [Habilitar Wifi](#habilitar-wifi-)
+- [Links y Video](#links-)
+- [Descargas e Imagen](#descargas-)
 - [Referencias](#referencias)
 
 ## Instalación <img src="https://user-images.githubusercontent.com/62630527/158048706-9cb18a7c-c450-4d83-bf7d-d96cbc0ffd7d.png" width="25px"> 
