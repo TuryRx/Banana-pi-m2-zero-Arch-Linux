@@ -164,9 +164,10 @@ Bueno espero y este pequeño tutorial les sea de utilidad y recuerden que si tie
 
 ## Descargas <img src="https://user-images.githubusercontent.com/62630527/158044106-a52b6ef1-a65d-42d1-b376-79284df8721b.png" width="25px">
 
-#### ArchLinux Rev 1.2 Banana Pi M2Z 12-03-22
+#### ArchLinux Rev 1.3 Banana Pi M2Z 14-04-22 compatible con SD 4,8,16,32GB
+#### Nota: Utilizar GParted para redimencionar capacidad
 
-	https://www.mediafire.com/file/1zuqvmxv6spvru7/ArchLinux-h2-plus-arm-devel-1.2-Banana-pi-m2-zero.rar/file
+	https://www.mediafire.com/file/mtcf6k0fp7xpd75/ArchLinux-h2-plus-arm-devel-1.3-Banana-pi-m2-zero.rar/file
 
 
 ## Referencias
