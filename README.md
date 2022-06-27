@@ -1,4 +1,4 @@
-# Banana-pi-m2-zero-Arch-Linux <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+# Banana-pi-m2-zero-Arch-Linux <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px" height="25px"> 
 #### Proyecto de Instalación y Configuración de Arch Linux en Banana Pi M2 Zero
 
 ![1200px-Archlinux-vert-dark svg (1)](https://user-images.githubusercontent.com/62630527/158080103-bbbe87f2-eb5c-402e-9fda-315ab8e79886.png) ![BANANAPI-ZERO-01 (1)](https://user-images.githubusercontent.com/62630527/128290176-105ffebd-346a-4c38-8d4a-be466738a2ef.png)
